@@ -44,9 +44,9 @@
 ### Paper 2 - ELS
 | Dataset | No. of Maximal Cliques | Size of Largest Clique | Runtime |
 | :-------- | :------- | :------------------------- | :---------- |
-| Enron | 226859 | 20 | 5.311s |
-| WikiVote | 460185 | 17 | 7.802s |
-| Skitter | 37322355 | 67 | 1275.235s |
+| Enron | 226859 | 20 | 0.974s |
+| WikiVote | 460185 | 17 | 1.389s |
+| Skitter | 37322355 | 67 | 212.470s |
 
 ### Paper 3 - Chiba
 | Dataset | No. of Maximal Cliques | Size of Largest Clique | Runtime |
