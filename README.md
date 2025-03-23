@@ -38,8 +38,8 @@
 ### Paper 1 - Tomita
 | Dataset | No. of Maximal Cliques | Size of Largest Clique | Runtime |
 | :-------- | :------- | :------------------------- | :---------- |
-| Enron | 226859 | 20 | 121.112s |
-| WikiVote | 460185 | 17 | 16.874s |
+| Enron | 226859 | 20 | 7.257s |
+| WikiVote | 460185 | 17 | 4.844s |
 
 ### Paper 2 - ELS
 | Dataset | No. of Maximal Cliques | Size of Largest Clique | Runtime |
